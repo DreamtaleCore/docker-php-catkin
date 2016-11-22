@@ -3,6 +3,9 @@
 ## How to build
 _NOTICE:_
 
+First of all, make your system support and have installed ``Docker``, 
+or look this [page](https://docs.docker.com/engine/getstarted/ title="tutorial")
+
 In this package, you need **adjust** some ``files`` or ``files' path`` in the ``build.sh``
 
 Step 1. Make sure the path of your dokuwiki, then open the build.sh:
