@@ -64,5 +64,5 @@ Step 5. So, we can run this image:
    or as your settings:
 
    ``` bash
-   sudo docker run -d -p <the port you like> <your docker image name>
+   sudo docker run -d -p <the port you like>:80 <your docker image name>
    ```
